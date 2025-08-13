@@ -1,0 +1,29 @@
+{
+  "workplacebyls": {
+    "build_name": "2.1.19",
+    "android": {
+      "build_number": 230
+    },
+    "ios": {
+      "build_number": 230
+    }
+  },
+  "workplacebytsphub": {
+    "build_name": "2.1.19",
+    "android": {
+      "build_number": 230
+    },
+    "ios": {
+      "build_number": 230
+    }
+  },
+  "tiabytsp": {
+    "build_name": "2.1.19",
+    "android": {
+      "build_number": 230
+    },
+    "ios": {
+      "build_number": 230
+    }
+  }
+}
