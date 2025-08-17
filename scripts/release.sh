@@ -35,7 +35,7 @@ SUPPORTED_PLATFORMS=("ios" "android")
 VERSION_FILE="version.json"
 CHANGELOG_FILE="CHANGELOG.md"
 FLUTTER_VERSION="3.29.1"
-CREDENTIALS_FILE="credentials/ayman-sctipt-credentials.json"
+CREDENTIALS_FILE="" # path of credentials.json file
 
 # -----------------------------------------------------------------------------
 # Helpers
